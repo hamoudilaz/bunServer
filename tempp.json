@@ -1,0 +1,133 @@
+
+
+FÖRSTA
+{
+    accountIndex: 1,
+        mint: "So11111111111111111111111111111111111111112",
+            uiTokenAmount: {
+        uiAmount: 0.007339565,
+            decimals: 9,
+                amount: "7339565",
+                    uiAmountString: "0.007339565",
+  },
+    owner: "WWWyP28Z3D4G2obxadzaQ66b41AaFYfhmuorMnX6B8q",
+        programId: "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+} {
+    accountIndex: 1,
+        mint: "So11111111111111111111111111111111111111112",
+            uiTokenAmount: {
+        uiAmount: 0.007329565,
+            decimals: 9,
+                amount: "7329565",
+                    uiAmountString: "0.007329565",
+  },
+    owner: "WWWyP28Z3D4G2obxadzaQ66b41AaFYfhmuorMnX6B8q",
+        programId: "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+}
+ANDRA
+    - 10000
+TREDJE
+So11111111111111111111111111111111111111112
+FJÄRDE
+{
+    So11111111111111111111111111111111111111112: -10000,
+}
+FÖRSTA
+{
+    accountIndex: 3,
+        mint: "6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump",
+            uiTokenAmount: {
+        uiAmount: 12747.227696,
+            decimals: 6,
+                amount: "12747227696",
+                    uiAmountString: "12747.227696",
+  },
+    owner: "WWWyP28Z3D4G2obxadzaQ66b41AaFYfhmuorMnX6B8q",
+        programId: "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+} {
+    accountIndex: 3,
+        mint: "6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump",
+            uiTokenAmount: {
+        uiAmount: 13097.060857,
+            decimals: 6,
+                amount: "13097060857",
+                    uiAmountString: "13097.060857",
+  },
+    owner: "WWWyP28Z3D4G2obxadzaQ66b41AaFYfhmuorMnX6B8q",
+        programId: "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+}
+ANDRA
+349833161
+TREDJE
+6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump
+FJÄRDE
+{
+    So11111111111111111111111111111111111111112: -10000,
+        "6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump": 349833161,
+}
+FÖRSTA
+{
+    accountIndex: 10,
+        mint: "So11111111111111111111111111111111111111112",
+            uiTokenAmount: {
+        uiAmount: 22.200602413,
+            decimals: 9,
+                amount: "22200602413",
+                    uiAmountString: "22.200602413",
+  },
+    owner: "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        programId: "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+} {
+    accountIndex: 10,
+        mint: "So11111111111111111111111111111111111111112",
+            uiTokenAmount: {
+        uiAmount: 22.200612413,
+            decimals: 9,
+                amount: "22200612413",
+                    uiAmountString: "22.200612413",
+  },
+    owner: "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        programId: "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+}
+ANDRA
+10000
+TREDJE
+So11111111111111111111111111111111111111112
+FJÄRDE
+{
+    So11111111111111111111111111111111111111112: 0,
+        "6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump": 349833161,
+}
+FÖRSTA
+{
+    accountIndex: 12,
+        mint: "6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump",
+            uiTokenAmount: {
+        uiAmount: 778597536.086566,
+            decimals: 6,
+                amount: "778597536086566",
+                    uiAmountString: "778597536.086566",
+  },
+    owner: "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        programId: "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+} {
+    accountIndex: 12,
+        mint: "6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump",
+            uiTokenAmount: {
+        uiAmount: 778597186.253405,
+            decimals: 6,
+                amount: "778597186253405",
+                    uiAmountString: "778597186.253405",
+  },
+    owner: "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+        programId: "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+}
+ANDRA
+    - 349833161
+TREDJE
+6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump
+FJÄRDE
+{
+    So11111111111111111111111111111111111111112: 0,
+        "6d1fDG25NS8sbPbvjZJxCqs4sRj4cHgEHS5bZSd6pump": 0,
+}

@@ -1,0 +1,33 @@
+{
+  "files.exclude": {
+    "**/.git": false,
+    "**/.svn": false,
+    "**/.hg": false,
+    "**/.DS_Store": false,
+    "**/Thumbs.db": false,
+    "**/node_modules": false,
+    "**/CVS": false,
+    "*.json": false,
+    "**/*.json": false,
+    "bun.lock": false,
+    ".gitignore": false,
+    "node_modules": false,
+    ".vscode": false
+  },
+  "explorerExclude.backup": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true,
+    "**/CVS": true,
+    "*.json": true,
+    "**/*.json": true,
+    "bun.lock": true,
+    ".gitignore": true,
+    "node_modules": true,
+    ".vscode": true
+  },
+  "hide-files.files": []
+}
